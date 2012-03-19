@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Resources/document-new.png</file>
+        <file>Resources/document-open.png</file>
+        <file>Resources/document-print-preview.png</file>
+        <file>Resources/document-print.png</file>
+        <file>Resources/document-properties.png</file>
+        <file>Resources/document-save-as.png</file>
+        <file>Resources/document-save.png</file>
+        <file>Resources/edit-clear.png</file>
+        <file>Resources/edit-copy.png</file>
+        <file>Resources/edit-cut.png</file>
+        <file>Resources/edit-delete.png</file>
+        <file>Resources/edit-find-replace.png</file>
+        <file>Resources/edit-find.png</file>
+        <file>Resources/edit-paste.png</file>
+        <file>Resources/edit-redo.png</file>
+        <file>Resources/edit-select-all.png</file>
+        <file>Resources/edit-undo.png</file>
+        <file>Resources/system-log-out.png</file>
+        <file>Resources/view-refresh.png</file>
+    </qresource>
+</RCC>
